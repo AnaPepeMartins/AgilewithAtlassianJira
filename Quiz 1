@@ -1,0 +1,106 @@
+1.Which one of the following statements about agile approaches to developing products is true?
+They are iterative but not incremental.
+
+They are not iterative and not incremental.
+
+They are incremental but not iterative.
+
+They are iterative and incremental.
+
+2.Which one of the following statements is true?
+The scientific method usually does not involve iterations.
+
+The scientific method does not apply to teams.
+
+The scientific method is similar to the “plan, do, check, act” method of improving business processes.
+
+3. Which one of the following statements is true?
+Waterfall projects usually have shorter iterations than agile projects.
+
+The feature batch size in waterfall project management is usually very small.
+
+In agile project management, planning is distributed throughout the life of the project.
+
+4. Which one of the following statements about Jira’s hierarchy is true?
+An application can contain only one project.
+
+An application contains projects, which contain issues.
+
+A Jira issue contains projects.
+
+5. Which one of the following statements about Jira projects is true?
+A project template can be selected when creating a project.
+
+Project templates are also called fields.
+
+Issues will automatically be created when creating a project.
+
+6. Which one of the following statements about Jira settings is true?
+A change to a setting always applies only to a specific project.
+
+The scope of what a setting applies to depends on which level of the Jira hierarchy that you are in.
+
+A change to a setting always applies to all projects.
+
+7. Why are there multiple columns in an agile board?
+One column for each work item.
+
+One column for each step that a work item goes through.
+
+One column for each team member.
+
+8. On a board, what happens when you move an issue from one column to another?
+The issue’s workflow changes.
+
+The value of the issue’s “status” field changes.
+
+A new issue is created.
+
+9. When you are adding a column to a board, what must be associated with the column?
+A status.
+
+A workflow.
+
+An issue.
+
+10. Which one of the following statements about the kanban method is true?
+You must create new team roles to implement kanban.
+
+It is not related to agile.
+
+A key principle is to limit work in progress.
+
+11. When a kanban team member is ready to work on a new issue in the standard Jira kanban workflow, which one of the following is usually true?
+A planning meeting should be called.
+
+Any issue from the backlog is pulled to the “in progress” column.
+
+The issue at the top of the “selected for development” column is pulled to the “in progress” column.
+
+12. Which one of the following statements about a kanban backlog is true?
+It can be changed at any time.
+
+It should only be changed during certain time windows.
+
+It should not be changed.
+
+13. Which one of the following statements about work in progress limits is true?
+They should be set for every status.
+
+They slow down the flow of the process.
+
+They help the team continuously improve.
+
+14. An airport deli provides two choices- you can buy a prepared sandwich from the refrigerator or you can order a sandwich at the counter and have it prepared for you. From the perspective of preparing the sandwich, which uses a pull system?
+Both the refrigerator and the counter.
+
+The refrigerator only.
+
+The counter only.
+
+15. Which one of the following statements is true?
+A cumulative flow diagram should ideally trend down over time.
+
+Cycle time is the time from issue creation to issue completion.
+
+A cumulative flow diagram shows the number of issues in each status over time.
